@@ -1,0 +1,6 @@
+Esta es mi historia jamas contada.
+Resulta que un dia .... bla bla bla jajaja.
+Mañana nos enfocaremos en su vida laboral
+Esta linea se agrego por medio de la rama cabecera
+
+Una agregacion de esta linea en cabecera para poder hacer merge
